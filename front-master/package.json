@@ -12,7 +12,7 @@
     "date-fns": "^2.9.0",
     "formik": "^2.1.4",
     "history": "^4.10.1",
-    "immer": "^4.0.1",
+    "immer": "^8.0.1",
     "material-icons": "^0.3.1",
     "mui-datatables": "^2.14.0",
     "polished": "^3.4.1",
